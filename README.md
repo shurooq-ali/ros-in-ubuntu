@@ -1,2 +1,2 @@
-# ros-in-ubuntu
+# ros
 i install ros in ubuntu 
